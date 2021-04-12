@@ -5,5 +5,5 @@
 -->
 ### My Name is Jeremic Nemanja
 
-# Does anyone still need a vanilla PHP? I'm sure it does. ✨
-# But anyway it can be done some magic with some frameworks as well 😉
+##### Does anyone still need a vanilla PHP? I'm sure it does. ✨
+##### But anyway it can be done some magic with some frameworks as well 😉
